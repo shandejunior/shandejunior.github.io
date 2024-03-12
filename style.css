@@ -297,6 +297,7 @@ header {
     margin:0
     padding: 15px 0px;
     align-items: center;
+    display: block;
 }
 
 .bt-preg img {
