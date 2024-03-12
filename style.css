@@ -294,8 +294,8 @@ header {
 }
 
 .preguntas {
-    padding: 0px 0px;
-    display: flex;
+    margin:0
+    padding: 15px 0px;
     align-items: center;
 }
 
