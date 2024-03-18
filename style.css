@@ -6,7 +6,7 @@
     --colorgrisfondo: #efefef;
     --colorgristexto2: #85929e;
     --colornegro: #000;
-    --colorojo: #d9534f;
+    --colorojo: #cb3234;
     --colorojon: #d43f3a;
     --fontlato: "Sofia Sans", sans-serif;
 
@@ -396,7 +396,7 @@ footer {
 
 .enlaces {
     & a {
-        color: var(--colorgristexto1);
+        color: var(--colornegro);
         font-size: 15px;
     }
 }
