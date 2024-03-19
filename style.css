@@ -685,7 +685,7 @@ footer {
 
     .servicio-lista img {
         padding-left: 10px;
-        width: 110%
+        width: 70%
     }
 
 
@@ -710,8 +710,9 @@ footer {
         display: flex;
         align-items: center;
         flex-direction: column;
-    
     }
+    .info-basic {
+        display: block;
 
 }
 
