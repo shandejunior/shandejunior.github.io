@@ -520,6 +520,7 @@ footer {
     }
 
     .info-f {
+        display: flex;
         text-align: center;
 
     }
