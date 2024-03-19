@@ -516,7 +516,6 @@ footer {
     }
 
     .info-basic{
-        display: flex;
         justify-content: space-around;
     }
 
@@ -566,7 +565,7 @@ footer {
 
     .servicio-lista img {
         padding-left: 10px;
-        width: 110%
+        width: 80%
     }
 
 
