@@ -122,19 +122,6 @@ button {
     animation: subidon;
     animation-duration: 3s;
 }
-@keyframes subidon{
-    from {
-        margin-left: 100%;
-        width: 100%;
-    }
-    
-    to {
-        margin-left: 0%;
-        width: 100%;
-    }
-}
-
-
 
 /* Estilo de botón 1 */
 .btn1 {
