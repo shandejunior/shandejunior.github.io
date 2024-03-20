@@ -639,6 +639,10 @@ footer {
         gap: 50px;
     }
 
+    .nav-enlaces {
+        gap:15px;
+    }
+
     .nav-list{
         flex-direction: column;
         animation: none;
