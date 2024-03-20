@@ -384,7 +384,7 @@ footer {
 .enlaces {
     & a {
         color: var(--colornegro);
-        font-size: 15px;
+        font-size: 14.5px;
     }
 }
 
