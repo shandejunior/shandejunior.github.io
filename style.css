@@ -600,6 +600,11 @@ footer {
         align-items: center;
         align-items: flex-start;
     }
+    .whatsapp a img{
+    height: auto;
+    width: 35px;
+    }
+
     .container {
         max-width: 1140px;
         margin: 0px auto;
@@ -614,7 +619,7 @@ footer {
         display: flex;
         align-items: center;
         & img{
-            width: 35px;
+            width: 30px;
             height: auto;
         }
     }
@@ -678,11 +683,6 @@ footer {
         padding-left: 10px;
         width: 50%
     }
-    .servicio-1 a img {
-        padding-left: 22px;
-        width: 70%;
-    }
-
 
     #videito {
         padding: 10px;
